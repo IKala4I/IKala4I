@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Pershko Vladyslav</h1>
 <h3 align="center">An encouraged frontend developer studying at KPI</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
