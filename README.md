@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pershkovladyslav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_XEH2c2yTehBkiRCH7dhe3EVlp91BGwY/view?usp=sharing](https://drive.google.com/file/d/1_XEH2c2yTehBkiRCH7dhe3EVlp91BGwY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZTh2IIeU7S59uVoJBgXwm7jkI0N89idT/view?usp=sharing](https://drive.google.com/file/d/1ZTh2IIeU7S59uVoJBgXwm7jkI0N89idT/view?usp=sharing)
 
 - ⚡ Fun fact **I think AI will take over all jobs in the future**
 
