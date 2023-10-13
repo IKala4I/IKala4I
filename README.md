@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![image](https://github.com/IKala4I/IKala4I/assets/92719123/b7b1c90e-9743-422f-94e2-38f43666cfc3)![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Pershko Vladyslav</h1>
 <h3 align="center">An encouraged frontend developer studying at KPI</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **pershkovladyslav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZTh2IIeU7S59uVoJBgXwm7jkI0N89idT/view?usp=sharing](https://drive.google.com/file/d/1ZTh2IIeU7S59uVoJBgXwm7jkI0N89idT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gQrvEFGg6-tXPiqGrNTQRAWAiuclbTrx/view?usp=sharing](https://drive.google.com/file/d/1gQrvEFGg6-tXPiqGrNTQRAWAiuclbTrx/view?usp=sharing)
+  
+- 🎒 You can see my portfolio here [https://nextjs-portfolio-two-plum.vercel.app/](https://nextjs-portfolio-two-plum.vercel.app/)
 
 - ⚡ Fun fact **I think AI will take over all jobs in the future**
 
