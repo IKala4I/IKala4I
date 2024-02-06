@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_6uMPw_FpDDPt3pJunuxn7wiUrzdojN2/view?usp=sharing)
   
-- 🎒 You can see my portfolio here [https://nextjs-portfolio-two-plum.vercel.app/](https://nextjs-portfolio-two-plum.vercel.app/)
+- 🎒 You can see my portfolio here [Portfolio](https://nextjs-portfolio-two-plum.vercel.app/)
 
 - ⚡ Fun fact **I think AI will take over all jobs in the future**
 
