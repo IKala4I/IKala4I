@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pershkovladyslav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_6uMPw_FpDDPt3pJunuxn7wiUrzdojN2/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_6uMPw_FpDDPt3pJunuxn7wiUrzdojN2/view?usp=sharing)
   
 - 🎒 You can see my portfolio here [https://nextjs-portfolio-two-plum.vercel.app/](https://nextjs-portfolio-two-plum.vercel.app/)
 
