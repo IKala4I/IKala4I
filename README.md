@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikala4i&label=Profile%20views&color=0e75b6&style=flat" alt="ikala4i" /> </p>
 
-- 🌱 I’m currently learning **React, English**
+- 🌱 I’m currently learning **Angular, English**
 
 - 📫 How to reach me **pershkovladyslav@gmail.com**
 
