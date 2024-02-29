@@ -13,7 +13,7 @@
   
 - 🎒 You can see my portfolio here [Portfolio](https://nextjs-portfolio-two-plum.vercel.app/)
 
-- ⚡ Fun fact **I think AI will take over all jobs in the future**
+- ⚡ Fun fact **I think AI will take over all jobs in the future.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
