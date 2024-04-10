@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **pershkovladyslav@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_6uMPw_FpDDPt3pJunuxn7wiUrzdojN2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b5WUW-9PldJgl55Kz_-YYuC6P_8GPR0R/view?usp=sharing)
   
 - 🎒 You can see my portfolio here [Portfolio](https://nextjs-portfolio-two-plum.vercel.app/)
 
-- ⚡ Fun fact **I think AI will take over all jobs in the future**
+- ⚡ Fun fact **I think AI will take over all jobs in the future.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
