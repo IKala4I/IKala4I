@@ -74,5 +74,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikala4i&show_icons=true&locale=en&layout=compact" alt="ikala4i" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikala4i&show_icons=true&locale=en" alt="ikala4i" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikala4i&" alt="ikala4i" /></p>
